@@ -1,0 +1,17 @@
+{
+  "name": "Simple-Chat-App",
+  "version": "1.0.0",
+  "description": "Simple chat app using NodeJS, ExpressJS, MongoDB and socket.io",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Lwandile",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongodb": "^2.2.30",
+    "morgan": "^1.10.0",
+    "socket.io": "^2.0.3"
+  }
+}
